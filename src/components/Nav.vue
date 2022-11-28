@@ -7,9 +7,9 @@
     
     <nav>
         <ul class="navigation">
-            <RouterLink to="/home"><h2 class="navH2 my-2">BlogApp</h2></RouterLink>
+            <RouterLink to="/"><h2 class="navH2 my-2">BlogApp</h2></RouterLink>
             <li><a href="">Sobre Nosotros</a></li>
-            <li><a><RouterLink to="/contact">Contactanos</RouterLink></a></li>
+            <li><RouterLink to="/contact">Contactanos</RouterLink></li>
             <li><a href="">Reglas y Politicas</a></li>
         </ul>
     </nav>
